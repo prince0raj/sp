@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sp/static/css/main.a786e2c2.css",
+    "main.js": "/sp/static/js/main.1e5dcd02.js",
+    "static/media/banner_final.png": "/sp/static/media/banner_final.04ba6d6a9a754bb68470.png",
+    "static/media/over strange.gif": "/sp/static/media/over strange.a329ca1de5d1e21f5225.gif",
+    "static/media/INTERNSHIP.png": "/sp/static/media/INTERNSHIP.e05cd33540c90ac16183.png",
+    "static/media/Hackthon.png": "/sp/static/media/Hackthon.82658cceef6b136072bc.png",
+    "static/media/strange.gif": "/sp/static/media/strange.2a10e5e350e8a6694bee.gif",
+    "static/media/hackerank.png": "/sp/static/media/hackerank.30b7978c067741383864.png",
+    "static/media/leetcode.png": "/sp/static/media/leetcode.3f413b2e300c58ffae8f.png",
+    "static/media/snapchat.jpg": "/sp/static/media/snapchat.6845daaff56951ce1b5b.jpg",
+    "static/media/Codechef.png": "/sp/static/media/Codechef.0665998b41e92e96d400.png",
+    "static/media/experience.jpeg": "/sp/static/media/experience.a664fcd60e2e9c216bd9.jpeg",
+    "static/media/coding.png": "/sp/static/media/coding.39b9bcfe83d4db9897c6.png",
+    "static/media/codingninja.png": "/sp/static/media/codingninja.1b499035ee1cfc418c55.png",
+    "static/media/fresser.png": "/sp/static/media/fresser.c41bf146a1e211bdbbc5.png",
+    "static/media/google.jpg": "/sp/static/media/google.fb4ee34b2063d7d29df7.jpg",
+    "static/media/logo_check.png": "/sp/static/media/logo_check.b9008c7cec9d8b7f93c0.png",
+    "static/media/atcoder.png": "/sp/static/media/atcoder.5b0f0c7fdfecf978742c.png",
+    "static/media/daisi.png": "/sp/static/media/daisi.60ab20066303d719cdaf.png",
+    "static/media/codeforces.png": "/sp/static/media/codeforces.e6dbb67c3456dfde7d6c.png",
+    "static/media/shift.png": "/sp/static/media/shift.e3824ecbc77daa99aef5.png",
+    "static/media/cardekho.svg": "/sp/static/media/cardekho.951e5d9e2f2732c82ca489b3a54517b6.svg",
+    "static/media/bms.svg": "/sp/static/media/bms.85d69222353a4eaf106bf539e71b1765.svg",
+    "index.html": "/sp/index.html",
+    "main.a786e2c2.css.map": "/sp/static/css/main.a786e2c2.css.map",
+    "main.1e5dcd02.js.map": "/sp/static/js/main.1e5dcd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a786e2c2.css",
+    "static/js/main.1e5dcd02.js"
+  ]
+}
